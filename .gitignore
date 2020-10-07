@@ -1,0 +1,17 @@
+env
+**/*.pyc
+**/__pycache__
+media
+.DS_Store
+*.sqlite3
+.env
+.venv
+local_settings.py
+Pipfile.lock
+
+# My folders
+
+# Accept these files in the repository
+!.gitignore
+!.travis.yml
+/.vscode
